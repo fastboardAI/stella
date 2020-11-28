@@ -9,7 +9,7 @@
 }
 
 body {
-    background: rgb(3, 161, 127);
+    background: rgb(0, 171, 127);
 }
 
 .chatbox {
@@ -98,7 +98,7 @@ body {
     flex-flow: row wrap;
     align-items: flex-start;
     margin: 20px auto 0px auto;
-    background: rgb(226, 118, 30);
+    background: rgb(1, 112, 83);
     border-radius: 10px 10px 0px 0px;
 }
 
