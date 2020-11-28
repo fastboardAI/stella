@@ -1,9 +1,11 @@
 # stella
 Stella is your personal AI. She knows your fashion sense, and finds you best deals, keeps you happy, and most importantly, she talks to you.
 
-![fling](./Images/stellaPoster.png)
+![stella](./Images/stellaPoster.png)
 
 
 ## Implementation (in progress)
+Estimated completion by 12/31/2020.
+No backend is connected yet, hence Stella replies "Internal Server Error"
 Current snapshot:
-![fling](./Images/snapshotStella.png)
+![stella](./Images/snapshotStella.png)
