@@ -9,4 +9,4 @@ Estimated completion by 12/31/2020.
 No backend is connected yet, hence Stella replies "Internal Server Error"
 
 Current snapshot:
-![stella](./Images/snapshotStella.png)
+![stella](./Images/stella.gif)
